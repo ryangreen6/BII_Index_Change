@@ -6,7 +6,7 @@ Maricopa County, which includes the Phoenix metropolitan area, was recognized in
 
 - Highlights:
 
-This notebook explores the change in BII by using a shapefile of the Phoenix Subdivision and BII data for the region. The workflow involves basic manipulation and plotting of shapefiles, importing and manipulating data from Microsoft's Planetary Computer, finding differences in raster data through albegra, and mapping spatial data. 
+This notebook explores the change in BII by using a shapefile of the Phoenix Subdivision and BII data for the region. The workflow involves basic manipulation and plotting of shapefiles, importing and manipulating data from Microsoft's Planetary Computer, finding differences in raster data through algebra, and mapping spatial data. 
 
 - About the data:
 
