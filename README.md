@@ -2,11 +2,11 @@
 
 ## About: 
 
-Maricopa County, which includes the Phoenix metropolitan area, was recognized in 2021 as the county experiencing the most significant increase in developed land in the country since 2001. The rapid urban development in Maricopa County has had far-reaching consequences for the biodiversity and health of the surrounding area. In this workflow, we will use a dataset that measures the Biodiversity Intactness Index (BII) to analyze the change in biodiversity within the Phoenix Subdivision between 2017 and 2020, with the goal of identifying how urban growth has influcened biodiversity in the region. 
+In this notebook, we will analyze the change in Biodiversity Intactness Index (BII) within the Phoenix Subdivision in Maricopa County, AZ, between 2017 and 2020, with the goal of identifying how urban growth has affected biodiversity in the region. 
 
 ## Highlights:
 
-This notebook explores the change in BII by using a shapefile of the Phoenix Subdivision and BII data for the region. The workflow involves basic manipulation and plotting of shapefiles, importing and manipulating data from Microsoft's Planetary Computer, finding differences in raster data through algebra, and mapping spatial data. 
+This workflow involves basic manipulation and plotting of shapefiles, importing and manipulating data from Microsoft's Planetary Computer, finding differences in raster data through algebra, and mapping spatial data. 
 
 ## Data:
 
